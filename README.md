@@ -22,10 +22,7 @@ i make the software i want to use every day, then polish it until it's ready for
 
 ### stats
 
-<p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=preinfection&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff" alt="GitHub stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preinfection&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=c9d1d9" alt="Top languages" />
-</p>
+<img src="stats.svg" alt="GitHub stats: public repos, stars, followers, contributions in the last year and top languages" width="720" />
 
 - **hop**: 1,238 tests
 - **mutate.lol**: 986 automated checks
