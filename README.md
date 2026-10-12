@@ -1,75 +1,47 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.gif">
-  <img src="assets/banner-light.gif" alt="preinfection: I make the software I want to use every day, then polish it until it's ready for everyone" width="100%">
-</picture>
+### about
 
-<br>
+i make the software i want to use every day, then polish it until it's ready for everyone. windows apps, web platforms, and the infrastructure behind them. toronto.
 
-## Hop
+🌐 [mutate.lol](https://mutate.lol) • [gethop.lol](https://gethop.lol)
 
-**An iPhone-style island and a lightweight clipper for Windows, in one install.**
-[Repository](https://github.com/preinfection/hop) · [Download the installer](https://github.com/preinfection/hop/releases/latest)
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hop-island-dark.gif">
-  <img src="assets/hop-island-light.gif" alt="Hop Island opening on the desktop and scrolling through its pages, with its settings app, PC stats, Today and clips pages" width="100%">
-</picture>
+### core skills
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hop-clipper-dark.gif">
-  <img src="assets/hop-clipper-light.gif" alt="Hop Clipper: its settings, F8 saving a clip, and the clips page" width="100%">
-</picture>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,ts,js,react,nextjs,tailwind,nodejs,cloudflare,threejs,qt,sqlite,git&theme=dark" alt="Python, TypeScript, JavaScript, React, Next.js, Tailwind, Node.js, Cloudflare, Three.js, Qt, SQLite, Git" />
+</p>
 
-`Python` `WebView2` `FFmpeg` `PyInstaller` `Inno Setup` · **1,238 tests**
+- **languages**: Python • TypeScript • JavaScript • SQL • GLSL
+- **web**: Next.js • React • Tailwind • Cloudflare Pages & Workers • D1 • KV • R2 • Durable Objects
+- **desktop**: PySide6 / Qt • WebView2 • FFmpeg • PyInstaller • Inno Setup
+- **graphics**: Three.js • WebGL • raymarching
+- **tools**: Git • SQLite • Windows
 
-<br>
+---
 
-## mutate.lol
+### stats
 
-**Free profile pages: everyone gets `mutate.lol/<username>`.**
-[mutate.lol](https://mutate.lol) · [Status](https://status.mutate.lol)
+<p align="left">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=preinfection&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff" alt="GitHub stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preinfection&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=c9d1d9" alt="Top languages" />
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/mutate-dark.gif">
-  <img src="assets/mutate-light.gif" alt="mutate.lol: a public profile, the landing page, analytics, the appearance editor, the badge picker and templates" width="100%">
-</picture>
+- **hop**: 1,238 tests
+- **mutate.lol**: 986 automated checks
 
-`Next.js` `Cloudflare Pages & Workers` `D1` `KV` `R2` `Durable Objects` · **986 automated checks**
+---
 
-<br>
+### projects
 
-## Unified
+#### [gethop.lol](https://gethop.lol)
+an iphone-style island and a lightweight clipper for windows, in one install.
+- music, pc stats, today and clips, right at the top of the screen
+- one key saves the last moments of a game as a clip
+- [repository](https://github.com/preinfection/hop) • [download](https://github.com/preinfection/hop/releases/latest)
 
-**A Windows email client that puts several Gmail and IMAP accounts into one offline, encrypted inbox.**
-[Repository](https://github.com/preinfection/unified)
-
-<img src="assets/unified.webp" alt="Unified: the combined inbox in the dark and light themes" width="100%">
-
-`Python` `PySide6` `SQLite` · **594 tests**
-
-<br>
-
-## b2spirit
-
-**A cinematic, fully procedural 3D opening for a landing page.**
-[Repository](https://github.com/preinfection/b2spirit)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/b2spirit-dark.gif">
-  <img src="assets/b2spirit-light.gif" alt="A procedural B-2 flying over a raymarched cloud sea, handing off to the wordmark" width="100%">
-</picture>
-
-This GIF plays at 24 fps. The intro itself runs at your screen's refresh rate.
-
-`TypeScript` `Three.js` `WebGL` `Vite`
-
-<br>
-
-## cloudflarewallet-reserve-checker
-
-**Finds a free handle for Cloudflare Wallet using the site's own live availability check. It's read-only.**
-[Repository](https://github.com/preinfection/cloudflarewallet-reserve-checker)
-
-<img src="assets/cloudflare.webp" alt="The checker finding an available Cloudflare Wallet handle" width="100%">
-
-`Python` `requests`
+#### [mutate.lol](https://mutate.lol)
+free profile pages: everyone gets `mutate.lol/<username>`.
+- a full dashboard to style your page, with templates, badges and analytics
+- provably fair games, animated collectibles and badges at games.mutate.lol
+- runs entirely on cloudflare: pages, workers, d1, kv and r2 • [status](https://status.mutate.lol)
