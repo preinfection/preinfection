@@ -41,7 +41,7 @@ const bar = top.map(([k, v]) => { const w = (v / total) * 320; const r = `<rect 
 const legend = top.map(([k, v], i) => `<circle cx="${386 + (i % 2) * 165}" cy="${58 + Math.floor(i / 2) * 26}" r="5" fill="${COLORS[k] || "#8b949e"}"/><text x="${398 + (i % 2) * 165}" y="${62 + Math.floor(i / 2) * 26}" class="l">${esc(k)} ${((v / total) * 100).toFixed(1)}%</text>`).join("");
 
 const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" role="img" aria-label="GitHub stats for ${USER}">
-<style>.k{font:400 15px -apple-system,Segoe UI,Helvetica,Arial,sans-serif;fill:#c9d1d9}.v{font:600 15px -apple-system,Segoe UI,Helvetica,Arial,sans-serif;fill:#ffffff}.l{font:400 13px -apple-system,Segoe UI,Helvetica,Arial,sans-serif;fill:#c9d1d9}.h{font:600 13px -apple-system,Segoe UI,Helvetica,Arial,sans-serif;fill:#8b949e}</style>
+<style>.k{font:400 15px -apple-system,Segoe UI,Helvetica,Arial,sans-serif;fill:#c9d1d9}.v{font:600 15px -apple-system,Segoe UI,Helvetica,Arial,sans-serif;fill:#ffffff}.l{font:400 13px -apple-system,Segoe UI,Helvetica,Arial,sans-serif;fill:#c9d1d9}.h{font:600 13px -apple-system,Segoe UI,Helvetica,Arial,sans-serif;fill:#8b949e}@media (prefers-color-scheme: light){.k,.l{fill:#1f2328}.v{fill:#000000}.h{fill:#59636e}}</style>
 <text x="0" y="12" class="h">GITHUB</text>${left}
 <text x="380" y="12" class="h">TOP LANGUAGES</text><clipPath id="c"><rect x="380" y="24" width="320" height="8" rx="4"/></clipPath><g clip-path="url(#c)">${bar}</g>${legend}
 </svg>
