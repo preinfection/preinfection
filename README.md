@@ -4,7 +4,7 @@
 
 ### about
 
-hey, i'm pre. i'm from toronto and i like building things i actually end up using, mostly windows apps and websites. hop started because i wanted a little island at the top of my screen, and mutate.lol because i wanted a profile page i could make look however i want. if any of it is useful to you too, that's honestly the best part, and ideas or bug reports are always welcome.
+hey, i'm pre. i'm from toronto and i like building things i actually end up using, mostly windows apps and websites. hop started because i wanted a dynamic island at the top of my screen that i could change songs with while playing, and mutate.lol because i wanted a profile page i could make look however i want (and 100% free). if any of it is useful to you too, that's honestly the best part, and ideas or bug reports are always welcome.
 
 🌐 [mutate.lol](https://mutate.lol) • [gethop.lol](https://gethop.lol) • [mathium.xyz](https://mathium.xyz) • [preinfection.lol](https://preinfection.lol)
 
