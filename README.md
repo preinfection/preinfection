@@ -2,7 +2,7 @@
 
 i make the software i want to use every day, then polish it until it's ready for everyone. windows apps, web platforms, and the infrastructure behind them. toronto.
 
-🌐 [mutate.lol](https://mutate.lol) • [gethop.lol](https://gethop.lol)
+🌐 [mutate.lol](https://mutate.lol) • [gethop.lol](https://gethop.lol) • [mathium.xyz](https://mathium.xyz) • [preinfection.lol](https://preinfection.lol)
 
 ---
 
