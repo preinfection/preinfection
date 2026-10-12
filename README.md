@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.webp" alt="pre the larp" width="100%">
+</p>
+
 ### about
 
 i make the software i want to use every day, then polish it until it's ready for everyone. windows apps, web platforms, and the infrastructure behind them. toronto.
