@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.webp" alt="pre the larp" width="100%">
+  <img src="banner.jpg" alt="pre the larp" width="100%">
 </p>
 
 ### about
